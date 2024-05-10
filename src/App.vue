@@ -1,10 +1,7 @@
 <script setup lang="ts"></script>
 
 <template>
-  <div>
-    hello vue app
-    <el-button type="primary">primary</el-button>
-  </div>
+  <router-view></router-view>
 </template>
 
 <style lang="scss">
